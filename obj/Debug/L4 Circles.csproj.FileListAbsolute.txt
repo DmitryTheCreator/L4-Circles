@@ -1,0 +1,9 @@
+C:\Users\ПК\OneDrive\Документы\ООП\L4 Circles\L4 Circles\bin\Debug\L4 Circles.exe.config
+C:\Users\ПК\OneDrive\Документы\ООП\L4 Circles\L4 Circles\bin\Debug\L4 Circles.exe
+C:\Users\ПК\OneDrive\Документы\ООП\L4 Circles\L4 Circles\bin\Debug\L4 Circles.pdb
+C:\Users\ПК\OneDrive\Документы\ООП\L4 Circles\L4 Circles\obj\Debug\L4 Circles.csprojAssemblyReference.cache
+C:\Users\ПК\OneDrive\Документы\ООП\L4 Circles\L4 Circles\obj\Debug\L4_Circles.Form1.resources
+C:\Users\ПК\OneDrive\Документы\ООП\L4 Circles\L4 Circles\obj\Debug\L4_Circles.Properties.Resources.resources
+C:\Users\ПК\OneDrive\Документы\ООП\L4 Circles\L4 Circles\obj\Debug\L4 Circles.csproj.GenerateResource.cache
+C:\Users\ПК\OneDrive\Документы\ООП\L4 Circles\L4 Circles\obj\Debug\L4 Circles.exe
+C:\Users\ПК\OneDrive\Документы\ООП\L4 Circles\L4 Circles\obj\Debug\L4 Circles.pdb
